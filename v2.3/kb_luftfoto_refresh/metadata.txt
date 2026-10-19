@@ -1,0 +1,17 @@
+[general]
+name=Danmark set fra luften
+qgisMinimumVersion=3.28
+qgisMaximumVersion=4.99
+version=2.3.0
+description=Historiske luftfotos fra KB som GeoJSON, med kategori-dropdown, roligere servicemeddelelser, lokal miniaturecache og fotoåbning.
+about=Opdaterer historiske luftfotos fra Det Kgl. Biblioteks nyere DSfL JSON API til en lokal GeoJSON-punktfil. Søger i aktuelt kortudsnit, understøtter filter for skrå- og lodfotos, sidetal, valg af maksimalt antal poster, eksport af GeoJSON, lokal miniaturevisning, kategori-menu og fotoåbning med kortklik og en mere diskret håndtering af servicemeddelelser. Både QGIS 3 / Qt5 og QGIS 4 / Qt6 er målsat. KB's API kan begrænse antallet af tilgængelige resultater.
+author=Morten Wulff Ingvorsen
+email=mwi@slks.dk
+repository=https://github.com/wulle489/Danmark-set-fra-luften
+tracker=https://github.com/wulle489/Danmark-set-fra-luften/issues
+homepage=https://www.kb.dk/danmarksetfraluften
+category=Web
+icon=icon.png
+tags=Det Kgl. Bibliotek,luftfoto,historiske flyfoto,GeoJSON,Danmark,skråfoto,lodfoto
+experimental=False
+deprecated=False
