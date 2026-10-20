@@ -1,0 +1,17 @@
+[general]
+name=Danmark set fra luften
+qgisMinimumVersion=3.28
+qgisMaximumVersion=4.99
+version=2.3.1
+description=Dette plugin tilføjer en toolbar, hvor man kan loade op til 500 luftfotos i det aktuelle kortudsnit. Det er muligt kun at vælge skråfotos, lodfotos eller andre typer materiale. Danmark set fra luften – før Google er en online tjeneste, hvor man kan se gamle luftfotos af Danmark fra 1890 og frem. Det Kgl. Biblioteks samling af luftfotos består af omkring tre millioner unikke optagelser fra 1890 frem til 2010. Samlingen giver et ekstraordinært indblik i udviklingen af det kulturelle landskab og infrastrukturen i byerne såvel som på landet op gennem det 20. århundrede. Tjenesten har til formål at give nyt (digitalt) liv til de gamle luftfotos og gøre dem frit tilgængelige for alle. Siden begyndelsen af projektet er offentligheden blevet inddraget i arbejdet med at placere billederne på danmarkskortet, da der i arkiverne ikke forefinder informationer om billedernes præcise optagelsessteder. Det Kgl. Biblioteks officielle web-tjeneste kan findes her: https://www.kb.dk/danmarksetfraluften/
+about=Plugin updated to use GeoJson, Qt6 compatible and various other updates.
+author=Morten Wulff Ingvorsen
+email=mwi@slks.dk
+repository=https://github.com/wulle489/Danmark-set-fra-luften
+tracker=https://github.com/wulle489/Danmark-set-fra-luften/issues
+homepage=https://www.kb.dk/danmarksetfraluften
+category=Web
+icon=icon.png
+tags=Det Kgl. Bibliotek,luftfoto,historiske flyfoto,GeoJSON,Danmark,Denmark,skråfoto,lodfoto
+experimental=False
+deprecated=False
